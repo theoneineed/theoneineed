@@ -1,25 +1,35 @@
-Welcome to my GitHub portfolio! Here you'll find a collection of projects that showcase my skills and expertise in Computational Physics and related fields.
+# Hi, I'm Nabin Chapagain
+ 
+**Computational Physicist · PhD candidate · builder of probabilistic algorithms**
+ 
+> A physicist who likes to program — chasing "why" questions with Bayesian statistics, scientific computing, and the occasional quantum circuit.
+ 
+I've been curious about how things work for as long as I can remember, and I fell for programming in middle school — that rush after a solved problem never got old. I feel lucky to work in an era where I don't have to pick just *one* of the things I love. So I do computational physics: building statistical algorithms and pointing them at hard scientific questions.
 
-## Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Contact Me](#contact-me)
+## This timeline tells the story of where I am right now. 
+Please feel free to reach out if you find anything below interesting and would love to chat about it.
 
-## About Me
-I am a graduate student pursuing a PhD in Physics. My field of research is Computational Physics.
+![Timeline](./resumeTimelinePNG.png)
 
-I have always been very interested in problem solving, and always needed to know answers to all the "why" questions I had since I was little. So, science (mainly, Physics) was the obvious route to take for my career. I was introduced to programming in middle school and the euphoria followed by the completion of a coding problem was second to none. I consider myself quite fortunate to be in a day and age that I don't have to choose only one of the topics that interest me, for my career. 
+ 
+## What I'm working on
+ 
+- **Research focus:** probabilistic and Bayesian methods — MCMC, uncertainty quantification, latent-state estimation, and unsupervised clustering — applied to problems like optical thermometry.
+- unsupervised clustering algorithms that use Bayesian Statistics to determine the clusters probabilistically.
+- Increasingly working at the intersection of **physics, machine learning, and AI engineering** (RAG, LLM application development, evaluation).
+- Long-standing interest in **quantum computing** (IBM Qiskit certified).
 
-I am particularly interested in the field of statistical algorithm development and quantum computing. I have invested quite some time to hone my skills in the field of data science and rising field of quantum computing. My most experiences have come from my involvement in academic research. I have worked in developing unsupervised clustering algorithms during my time as an undergrad and am currently working on compiling these algorithms into a single publishable package.
-
-I am most familiar with Python, but I also work with Julia and, MatLab. I have spent some time learning ForTran, because of the importance of the language in scientific programming. 
-
-In short, I am a Physicist who likes programming ...
-
-## Projects
-
-### [Machine Learning and Computer Vision](https://github.com/theoneineed/MLandVision)
-[Uploading the projects I did for two different courses I took over two different semesters: Machine Learning, Computer Vision]
+## Featured projects
+ 
+### [BATS — AI Resume Builder](https://github.com/theoneineed/ai_resume_builder)
+Python pipeline (Gemini API + RAG) that tailors a résumé to a job posting through a validated JSON contract — so the model never invents employers, dates, or metrics — and outputs an ATS-friendly PDF plus a keyword-gap report.
+ 
+### [FIR Thermometry](https://github.com/theoneineed/firThermometry/tree/main)
+Code pipeline developed to analyze the intensity data collected using FLS1000 spectrophotometer. The designed pipeline is useful for steps from reading the file to performing FIR analysis for the specific dataset.
+ 
+### [Machine Learning & Computer Vision](https://github.com/theoneineed/MLandVision)
+Coursework projects spanning two semesters — classical ML and computer-vision pipelines built from the ground up.
+ 
 
 <!-- 
 #### Features:
@@ -46,3 +56,4 @@ Repeat this further for more repositories
 - LinkedIn: [Nabin Chapagain](https://www.linkedin.com/in/theoneineed/)
 - Email: [nabin.chapagain@mavs.uta.edu](mailto:nabin.chapagain@mavs.uta.edu)
 - Personal Website: [My Website](https://www.nabinchapagain.com.np)
+- Google Scholar: [Nabin Chapagain](https://scholar.google.com/citations?hl=en&user=53uRklAAAAAJ)
