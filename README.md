@@ -22,7 +22,7 @@ Please feel free to reach out if you find anything below interesting and would l
 ## Featured projects
  
 ### [BATS — AI Resume Builder](https://github.com/theoneineed/ai_resume_builder)
-Python pipeline (Gemini API + RAG) that tailors a résumé to a job posting through a validated JSON contract — so the model never invents employers, dates, or metrics — and outputs an ATS-friendly PDF plus a keyword-gap report.
+Python pipeline (Gemini API + schema-constrained generation, structured JSON contracts, per-claim provenance tracking, grounding/anti-hallucination design) that tailors a résumé to a job posting through a validated JSON contract — so the model never invents employers, dates, or metrics — and outputs an ATS-friendly PDF plus a keyword-gap report.
  
 ### [FIR Thermometry](https://github.com/theoneineed/firThermometry/tree/main)
 Code pipeline developed to analyze the intensity data collected using FLS1000 spectrophotometer. The designed pipeline is useful for steps from reading the file to performing FIR analysis for the specific dataset.
